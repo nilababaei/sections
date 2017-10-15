@@ -16,16 +16,15 @@ html {
 
 img {
   display: inline-block;
-  padding: 2em;
+  padding: 2em 1em 1em;
   max-width: 25em;
   width: auto;
 }
 
 .information {
-  margin: 1.5rem;
   max-width: 25em;
   text-align: left;
-  padding: 2em;
+  padding: 0 0 0 1em;
 }
 
 h1 {
@@ -43,5 +42,5 @@ a {
 
 a:hover {
   background-color: #666;
-  color: white;
+  color: #eee9de;
 }
