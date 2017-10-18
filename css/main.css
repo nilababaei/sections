@@ -71,3 +71,8 @@ div {
 section {
   text-align: center;
 }
+
+
+p {
+  max-width: 20em;
+}
