@@ -16,7 +16,7 @@ html {
 
 img {
   display: block;
-  padding: 0 1em;
+  padding: 1.5em 1em 0;
   max-width: 25em;
   width: 100%;
   margin-top: 1.5rem;
@@ -26,7 +26,7 @@ img {
   display: inline-block;
   max-width: 25em;
   text-align: left;
-  padding-left: 2em;
+  padding-left: 1em;
   margin-right: 1.5rem;
   margin-top: 1.5rem;
 }
