@@ -26,7 +26,7 @@ img {
   display: inline-block;
   max-width: 25em;
   text-align: left;
-  padding: 0 0 0 1em;
+  padding-left: 2em;
   margin-right: 1.5rem;
 }
 
@@ -65,4 +65,9 @@ body {
 
 div {
   vertical-align: middle;
+}
+
+section {
+  display: inline-block;
+  text-align: center;
 }
