@@ -40,6 +40,10 @@ button {
   padding: .4em .75em .5em;
   border: 3px solid #333;
   border-radius: 8px;
+  background-color: #eee9de;
+}
+
+.btn {
   text-decoration: none;
   color: #333;
   text-align: center;
