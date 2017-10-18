@@ -17,7 +17,7 @@ html {
 
 img {
   display: block;
-  padding: 1.5em 1em 0;
+  padding: 1.5em 1em;
   width: 100%;
   margin-top: 1.5rem;
 }
@@ -41,12 +41,13 @@ h2 {
 
 button {
   display: inline-block;
-  padding: .4em .75em .5em;
+  padding: .6em .75em;
   border: 3px solid #333;
   border-radius: 8px;
   background-color: #eee9de;
-  font-size: 1.25em;
+  font-size: 1.125em;
   margin-bottom: 3rem;
+  margin-top: 1.5rem;
 }
 
 .btn {
