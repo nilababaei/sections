@@ -19,6 +19,7 @@ img {
   padding: 2em 1em 0;
   max-width: 25em;
   width: 100%;
+  margin-top: 1.5rem;
 }
 
 .information {
@@ -29,6 +30,7 @@ img {
 
 h2 {
   font-weight: bold;
+  display: inline-block;
 }
 
 a {
