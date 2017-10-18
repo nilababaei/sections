@@ -42,6 +42,7 @@ a {
   border-radius: 8px;
   text-decoration: none;
   color: #333;
+  text-align: center;
 }
 
 a:hover {
@@ -51,4 +52,8 @@ a:hover {
 
 body {
   margin: 0;
+}
+
+div {
+  vertical-align: middle;
 }
