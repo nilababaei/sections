@@ -15,12 +15,15 @@ html {
   max-width: 25em;
   margin-top: 1.5rem;
   padding-top: 1.5em;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 img {
   display: block;
-  padding-left: 1em;
   width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .information {
@@ -64,10 +67,6 @@ button:hover {
 
 body {
   margin: 0;
-}
-
-div {
-  vertical-align: middle;
 }
 
 section {
