@@ -12,12 +12,12 @@ html {
 
 .image {
   display: inline-block;
+  max-width: 25em;
 }
 
 img {
   display: block;
   padding: 1.5em 1em 0;
-  max-width: 25em;
   width: 100%;
   margin-top: 1.5rem;
 }
