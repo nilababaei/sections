@@ -23,9 +23,11 @@ img {
 }
 
 .information {
+  display: inline-block;
   max-width: 25em;
   text-align: left;
   padding: 0 0 0 1em;
+  margin-right: 1.5rem;
 }
 
 h2 {
