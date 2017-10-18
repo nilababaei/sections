@@ -13,13 +13,14 @@ html {
 .image {
   display: inline-block;
   max-width: 25em;
+  margin-top: 1.5rem;
+  padding-top: 1.5em;
 }
 
 img {
   display: block;
-  padding: 1.5em 1em;
+  padding-left: 1em;
   width: 100%;
-  margin-top: 1.5rem;
 }
 
 .information {
@@ -29,14 +30,14 @@ img {
   padding-left: 1em;
   margin-right: 1.5rem;
   margin-top: 1.5rem;
+  padding-top: 1.5em;
 }
 
 h2 {
   font-weight: bolder;
   display: inline-block;
-  margin: 0;
-  margin-top: 1.5rem;
   margin-bottom: .5rem;
+  margin-top: 0;
 }
 
 button {
@@ -71,6 +72,7 @@ div {
 
 section {
   text-align: center;
+  margin: 0;
 }
 
 p {
